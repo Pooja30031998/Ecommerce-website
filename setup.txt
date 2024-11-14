@@ -1,0 +1,14 @@
+#for virtual app (name myenv [any name can be given])
+python -m venv myenv
+
+#activate virtual env (name given myenv)
+myenv\Scripts\activate
+
+#for django
+python -m pip install Django
+
+
+
+
+
+
